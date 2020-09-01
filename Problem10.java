@@ -1,5 +1,7 @@
 package Problem10;
 
+/* Find the sum of all the primes below two million. */
+
 public class Problem10 {
 	public static void main(String[] args) {
 	    int num = 1999999;
