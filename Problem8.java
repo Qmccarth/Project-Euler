@@ -2,6 +2,8 @@ package Problem8;
 
 import java.math.BigInteger;
 
+/* Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? */
+
 public class Problem8 {
 	public static void main(String[]args) {
 		String num = "73167176531330624919225119674426574742355349194934" + 
