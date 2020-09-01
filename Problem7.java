@@ -1,5 +1,7 @@
 package Problem7;
 
+/* What is the 10 001st prime number? */
+
 public class Problem7 {
 	public static void main(String[]args) {
 		int num = 3;
